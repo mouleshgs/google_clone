@@ -8,17 +8,17 @@ This personal website is hosted using GitHub Pages, featuring a Google clone whe
 - **Static Hosting**: Uses GitHub Pages for hosting, ensuring fast and reliable performance.
   
 ## How to Access
-Visit the site at [mouleshleo.github.io](https://mouleshleo.github.io/).
+Visit the site at [mouleshgs.github.io/google_clone](https://mouleshgs.github.io/google_clone).
 
 ## Running Locally
 1. Clone the repository:
     ```bash
-    git clone https://github.com/mouleshleo/mouleshleo.github.io.git
+    git clone https://github.com/mouleshgs/google_clone.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd mouleshleo.github.io
+    cd google_clone
     ```
 
 3. Open the `index.html` file in a web browser:
